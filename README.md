@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, I'm Yash Gupta</h1>
 <!--<h3 align="center">A passionate frontend developer from India</h3>-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-gupta001&label=Profile%20views&color=0e75b6&style=flat" alt="yash-gupta001" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yash-Gupta001?tab=repositories](https://github.com/Yash-Gupta001?tab=repositories)
 
@@ -19,7 +18,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<!--hfgihf-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash-Gupta001&show_icons=true&locale=en&layout=compact" alt="Yash-Gupta001" /></p>
 
